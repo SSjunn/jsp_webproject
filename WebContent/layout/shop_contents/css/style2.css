@@ -1,0 +1,41 @@
+.justify-content-center {
+  justify-content: center !important;}
+
+
+.overflow-hidden {
+  overflow: hidden !important;}
+
+
+.w-100 {
+  width: 100% !important;}
+
+
+.mb-1,
+.my-1 {
+  margin-bottom: 0.25rem !important;}
+
+
+.mt-2,
+.my-2 {
+  margin-top: 0.5rem !important;}
+
+
+.mb-4,
+.my-4 {
+  margin-bottom: 1.5rem !important;}
+
+
+.product-item {
+  transition: .5s;}
+
+
+.product-item:hover {
+  box-shadow: 0 0 30px #DDDDDD;}
+
+
+.product-item .product-img img {
+  transition: .5s;}
+
+
+.product-item:hover .product-img img {
+  transform: scale(1.2);}
